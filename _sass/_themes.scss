@@ -48,13 +48,8 @@
     justify-content: center; /* Centers content vertically */
     align-items: center;     /* Optional: centers content horizontally */
     height: 100vh;           /* Full viewport height */
-    text-align: center;      /* Optional: centers text in the children */
   }
   
-  .post-header, article {
-    width: 100%;             /* Make sure the children take up full width */
-  }
-
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
