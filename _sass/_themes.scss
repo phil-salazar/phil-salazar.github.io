@@ -42,6 +42,13 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  .profile-container {
+    display: flex;
+    flex-direction: column; /* Align items vertically */
+    justify-content: center; /* Center vertically */
+    height: 100%; /* Ensure div takes up the full height */
+  }
+
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
