@@ -62,11 +62,22 @@
   ],
   "education": [
     {
+      "institution": "Harvard University",
+      "location": "Cambridge, Massachusetts",
+      "url": "https://www.harvard.edu/",
+      "area": "International Development",
+      "studyType": "Master of Public Administation",
+      "startDate": "2022-08-01",
+      "endDate": "2024-05-01",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "Stanford University",
       "location": "Palo Alto, California",
       "url": "https://www.stanford.edu/",
       "area": "Engineering",
-      "studyType": "BS",
+      "studyType": "Bachelor of Science",
       "startDate": "2012-08-01",
       "endDate": "2016-06-01",
       "score": "",
