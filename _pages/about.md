@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a data engineer and data scientist working in financial inclusion in Latin America. 
+Hi, I'm Phil! I'm a technical professional who is passionate about modernizing the field of international development. I have worked at financial technology and government technology startups in both the United States and Latin America, where I have worked across the technical stack, from data pipelines and orchestration to developing reactive frontend experiences for web applications.
 
-I love learning new coding languages. 
+I'm currently focused on how alternative data sources and better screening algorithms can enhance access to credit for individuals and businesses in emerging markets, particularly in Latin America.
 
-I have a passion for wine education, and am working toward a WSET certification.
+Separately, I am an enthusiastic proponent of wine education, and am working toward a WSET certification.
+
+I hold degrees in engineering from Stanford University and recently completed my masters in international development from Harvard University.
