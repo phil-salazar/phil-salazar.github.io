@@ -46,6 +46,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center; /* Centers content vertically */
+    align-items: stretch;     /* Optional: centers content horizontally */
     height: 100vh;           /* Full viewport height */
   }
   
