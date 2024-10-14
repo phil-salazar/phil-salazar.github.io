@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Phil! I'm a technical professional who is passionate about modernizing the field of international development. I have worked at financial technology and government technology startups in both the United States and Latin America, where I have worked across the technical stack, from data pipelines and orchestration to developing reactive frontend experiences for web applications.
