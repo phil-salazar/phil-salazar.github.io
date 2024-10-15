@@ -12,6 +12,15 @@
   },
   "work": [
     {
+      "name": "Grupago",
+      "position": "Consultant",
+      "url": "https://grupago.mx",
+      "startDate": "2022-09-01",
+      "endDate": "",
+      "summary": "Set up ETL pipeline and first machine learning models for an enterprise credit startup for informal entrepreneurs in Mexico. Advise and implement ML and deep learning concepts to extract predictive features on unstructured data sources like images and phone calls to determine creditworthiness.",
+      "highlights": []
+    },
+    {
       "name": "Indigov",
       "position": "Data Engineer",
       "url": "https://indigov.com",
