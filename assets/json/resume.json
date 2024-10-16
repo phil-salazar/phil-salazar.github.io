@@ -72,7 +72,7 @@
   "education": [
     {
       "institution": "Harvard University",
-      "location": "Cambridge, Massachusetts",
+      "location": "Cambridge, MA",
       "url": "https://www.harvard.edu/",
       "area": "International Development",
       "studyType": "Master of Public Administation",
@@ -83,7 +83,7 @@
     },
     {
       "institution": "Stanford University",
-      "location": "Palo Alto, California",
+      "location": "Stanford, CA",
       "url": "https://www.stanford.edu/",
       "area": "Engineering",
       "studyType": "Bachelor of Science",
