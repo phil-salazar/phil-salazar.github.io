@@ -13,11 +13,20 @@
   "work": [
     {
       "name": "Grupago",
-      "position": "Machine Learning Consultant",
+      "position": "Consultant",
       "url": "https://grupago.mx",
       "startDate": "2022-09-01",
       "endDate": "",
-      "summary": "Set up ETL pipeline and first machine learning models for an enterprise credit startup for informal entrepreneurs in Mexico. Advise and implement ML and deep learning concepts to extract predictive features on unstructured data sources like images and phone calls to determine creditworthiness.",
+      "summary": "Set up ML pipeline and models for credit scorecard and default risk for informal entrepreneurs in Mexico. Advise and implement ML and deep learning concepts to extract predictive features on unstructured data sources like images and phone calls to determine creditworthiness.",
+      "highlights": []
+    },
+    {
+      "name": "Bankaya",
+      "position": "Credit Risk Analyst Intern (Spanish)",
+      "url": "https://bankaya.com.mx/",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "Internship in Spanish. Tech Stack: S3, Snowflake, Airflow, Python, dbt. Developed and implemented new credit risk strategy offering variable down payments based on risk default probability for returning customers, leading to more than 300 bps improvement to credit margin. Managed relationships with alternative data vendors, incorporating new third-party data into credit risk model.",
       "highlights": []
     },
     {
@@ -26,7 +35,7 @@
       "url": "https://indigov.com",
       "startDate": "2022-01-01",
       "endDate": "2022-08-01",
-      "summary": "",
+      "summary": "Tech Stack: Owned shell scripting, Python for API integration with external data vendor and ETL, Prefect for orchestration, Terraform for infrastructure as code (IaC).",
       "highlights": []
     },
     {
@@ -35,16 +44,7 @@
       "url": "https://goodleap.com",
       "startDate": "2019-11-01",
       "endDate": "2021-11-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Premise Data Corporation",
-      "position": "Data Analyst",
-      "url": "https://premise.com",
-      "startDate": "2019-08-01",
-      "endDate": "2019-11-01",
-      "summary": "",
+      "summary": "Tech Stack: AWS Kinesis, Delta Lake, Airflow, Python, Spark on Databricks, SQL, React. Led Agile business intelligence team to build proprietary dashboarding platform. Built data pipelines in Python, Spark SQL, and custom data visualizations in React. Performed financial analyses in SQL and developed predictive model for loan defaults during COVID by borrower profession. Predicted over $25M in potential portfolio exposure for immediate refinancing. Founding member of corporate Diversity & Inclusion Advisory Board; proposed and implemented corporate programming that included hundreds of employees.",
       "highlights": []
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://amazon.com",
       "startDate": "2017-06-01",
       "endDate": "2018-09-01",
-      "summary": "",
+      "summary": "Analyzed retail data with SQL to grow $20M strategic vendor portfolio by 23% year over year. Promoted to manage largest consumer electronics category in Amazon Canada.",
       "highlights": []
     }
   ],
@@ -119,6 +119,11 @@
     {
       "language": "German",
       "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
