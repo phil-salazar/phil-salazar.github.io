@@ -19,4 +19,4 @@ I'm a technical professional who is passionate about using analytics and machine
 
 I'm currently focused on how alternative data sources and machine learning can enhance underwriting for individuals and businesses and provide more inclusive access to credit in emerging markets, particularly in Latin America.
 
-I hold quantitative degrees in Engineering from Stanford University and International Development from Harvard University.
+I hold quantitative degrees from Stanford University in Engineering and from Harvard University in International Development.
